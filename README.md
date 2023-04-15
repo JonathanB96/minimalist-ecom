@@ -1,7 +1,7 @@
 
 # Hi👋My name is Jonathan Bola
 
-## I am Full Stack developer.
+## I am a Full Stack developer.
 
 * 🌍  I'm based in Fort Worth, TX, USA
 * 🖥️  See my [Portfolio](https://jonathanbola.netlify.app)
